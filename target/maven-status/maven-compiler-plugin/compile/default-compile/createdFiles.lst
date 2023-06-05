@@ -1,0 +1,9 @@
+ouzel\library\database\ParseFromCSVToListOfBooks.class
+ouzel\library\controller\BooksManager.class
+ouzel\library\database\ParseToListOfBooks.class
+ouzel\library\service\UserInteraction.class
+ouzel\library\controller\Librarian.class
+ouzel\library\controller\LibraryManager.class
+ouzel\library\service\Response.class
+ouzel\Main.class
+ouzel\library\model\Book.class
